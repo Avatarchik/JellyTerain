@@ -1,0 +1,1097 @@
+  m_Name: 
+  m_ParsedForm:
+    m_PropInfo:
+      m_Props:
+      - m_Name: "_MainTex"
+        m_Description: "Sprite Texture"
+        m_Attributes: []
+        m_Type: 4
+        m_Flags: 2
+        m_DefValue[0]: 0
+        m_DefValue[1]: 0
+        m_DefValue[2]: 0
+        m_DefValue[3]: 0
+        m_DefTexture:
+          m_DefaultName: "white"
+          m_TexDim: 2
+      - m_Name: "_Color"
+        m_Description: "Tint"
+        m_Attributes: []
+        m_Type: 0
+        m_Flags: 0
+        m_DefValue[0]: 1
+        m_DefValue[1]: 1
+        m_DefValue[2]: 1
+        m_DefValue[3]: 1
+        m_DefTexture:
+          m_DefaultName: 
+          m_TexDim: 1
+      - m_Name: "PixelSnap"
+        m_Description: "Pixel snap"
+        m_Attributes:
+        - "MaterialToggle"
+        m_Type: 2
+        m_Flags: 0
+        m_DefValue[0]: 0
+        m_DefValue[1]: 0
+        m_DefValue[2]: 0
+        m_DefValue[3]: 0
+        m_DefTexture:
+          m_DefaultName: 
+          m_TexDim: 1
+      - m_Name: "_RendererColor"
+        m_Description: "RendererColor"
+        m_Attributes: []
+        m_Type: 0
+        m_Flags: 1
+        m_DefValue[0]: 1
+        m_DefValue[1]: 1
+        m_DefValue[2]: 1
+        m_DefValue[3]: 1
+        m_DefTexture:
+          m_DefaultName: 
+          m_TexDim: 1
+      - m_Name: "_Flip"
+        m_Description: "Flip"
+        m_Attributes: []
+        m_Type: 1
+        m_Flags: 1
+        m_DefValue[0]: 1
+        m_DefValue[1]: 1
+        m_DefValue[2]: 1
+        m_DefValue[3]: 1
+        m_DefTexture:
+          m_DefaultName: 
+          m_TexDim: 1
+      - m_Name: "_AlphaTex"
+        m_Description: "External Alpha"
+        m_Attributes: []
+        m_Type: 4
+        m_Flags: 2
+        m_DefValue[0]: 0
+        m_DefValue[1]: 0
+        m_DefValue[2]: 0
+        m_DefValue[3]: 0
+        m_DefTexture:
+          m_DefaultName: "white"
+          m_TexDim: 2
+      - m_Name: "_EnableExternalAlpha"
+        m_Description: "Enable External Alpha"
+        m_Attributes: []
+        m_Type: 2
+        m_Flags: 2
+        m_DefValue[0]: 0
+        m_DefValue[1]: 0
+        m_DefValue[2]: 0
+        m_DefValue[3]: 0
+        m_DefTexture:
+          m_DefaultName: 
+          m_TexDim: 1
+    m_SubShaders:
+    - m_Passes:
+      - m_NameIndices:
+        - $Globals: 4
+        - ETC1_EXTERNAL_ALPHA: 8
+        - PIXELSNAP_ON: 10
+        - UnityPerCamera: 11
+        - UnityPerDraw: 5
+        - UnityPerDrawSprite: 7
+        - UnityPerFrame: 6
+        - _AlphaTex: 14
+        - _Color: 0
+        - _EnableExternalAlpha: 13
+        - _MainTex: 12
+        - _RendererColor: 1
+        - _ScreenParams: 9
+        - unity_MatrixVP: 2
+        - unity_ObjectToWorld: 3
+        m_Type: 0
+        m_State:
+          serializedVersion: 2
+          m_Name: 
+          rtBlend0:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 10
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 10
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtBlend1:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 0
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 0
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtBlend2:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 0
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 0
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtBlend3:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 0
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 0
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtBlend4:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 0
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 0
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtBlend5:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 0
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 0
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtBlend6:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 0
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 0
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtBlend7:
+            srcBlend:
+              val: 1
+              name: "<noninit>"
+            destBlend:
+              val: 0
+              name: "<noninit>"
+            srcBlendAlpha:
+              val: 1
+              name: "<noninit>"
+            destBlendAlpha:
+              val: 0
+              name: "<noninit>"
+            blendOp:
+              val: 0
+              name: "<noninit>"
+            blendOpAlpha:
+              val: 0
+              name: "<noninit>"
+            colMask:
+              val: 15
+              name: "<noninit>"
+          rtSeparateBlend: 0
+          zTest:
+            val: 4
+            name: "<noninit>"
+          zWrite:
+            val: 0
+            name: "<noninit>"
+          culling:
+            val: 0
+            name: "<noninit>"
+          offsetFactor:
+            val: 0
+            name: "<noninit>"
+          offsetUnits:
+            val: 0
+            name: "<noninit>"
+          alphaToMask:
+            val: 0
+            name: "<noninit>"
+          stencilOp:
+            pass:
+              val: 0
+              name: "<noninit>"
+            fail:
+              val: 0
+              name: "<noninit>"
+            zFail:
+              val: 0
+              name: "<noninit>"
+            comp:
+              val: 8
+              name: "<noninit>"
+          stencilOpFront:
+            pass:
+              val: 0
+              name: "<noninit>"
+            fail:
+              val: 0
+              name: "<noninit>"
+            zFail:
+              val: 0
+              name: "<noninit>"
+            comp:
+              val: 8
+              name: "<noninit>"
+          stencilOpBack:
+            pass:
+              val: 0
+              name: "<noninit>"
+            fail:
+              val: 0
+              name: "<noninit>"
+            zFail:
+              val: 0
+              name: "<noninit>"
+            comp:
+              val: 8
+              name: "<noninit>"
+          stencilReadMask:
+            val: 255
+            name: "<noninit>"
+          stencilWriteMask:
+            val: 255
+            name: "<noninit>"
+          stencilRef:
+            val: 0
+            name: "<noninit>"
+          fogStart:
+            val: 0
+            name: "unity_FogStart"
+          fogEnd:
+            val: 0
+            name: "unity_FogEnd"
+          fogDensity:
+            val: 0
+            name: "unity_FogDensity"
+          fogColor:
+            x:
+              val: 0
+              name: "<noninit>"
+            y:
+              val: 0
+              name: "<noninit>"
+            z:
+              val: 0
+              name: "<noninit>"
+            w:
+              val: 0
+              name: "<noninit>"
+            name: "unity_FogColor"
+          fogMode: -1
+          gpuProgramID: 12899
+          m_Tags:
+            tags:
+            - CanUseSpriteAtlas: "true"
+            - IGNOREPROJECTOR: "true"
+            - PreviewType: "Plane"
+            - QUEUE: "Transparent"
+            - RenderType: "Transparent"
+          m_LOD: 0
+          lighting: 0
+        m_ProgramMask: 6
+        progVertex:
+          m_SubPrograms:
+          - serializedVersion: 2
+            m_BlobIndex: 0
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices: []
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 9
+            m_VectorParams:
+            - m_NameIndex: 0
+              m_Index: 9
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            - m_NameIndex: 1
+              m_Index: 8
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            m_MatrixParams:
+            - m_NameIndex: 2
+              m_Index: 4
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            - m_NameIndex: 3
+              m_Index: 0
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 0
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices: []
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 15
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers:
+            - m_NameIndex: 4
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 0
+                m_Index: 32
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            - m_NameIndex: 5
+              m_MatrixParams:
+              - m_NameIndex: 3
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 160
+            - m_NameIndex: 6
+              m_MatrixParams:
+              - m_NameIndex: 2
+                m_Index: 272
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 384
+            - m_NameIndex: 7
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 1
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            m_ConstantBufferBindings:
+            - m_NameIndex: 4
+              m_Index: 0
+            - m_NameIndex: 5
+              m_Index: 1
+            - m_NameIndex: 6
+              m_Index: 2
+            - m_NameIndex: 7
+              m_Index: 3
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 1
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices:
+            - 8
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 9
+            m_VectorParams:
+            - m_NameIndex: 0
+              m_Index: 9
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            - m_NameIndex: 1
+              m_Index: 8
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            m_MatrixParams:
+            - m_NameIndex: 2
+              m_Index: 4
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            - m_NameIndex: 3
+              m_Index: 0
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 1
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices:
+            - 8
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 15
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers:
+            - m_NameIndex: 4
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 0
+                m_Index: 32
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            - m_NameIndex: 5
+              m_MatrixParams:
+              - m_NameIndex: 3
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 160
+            - m_NameIndex: 6
+              m_MatrixParams:
+              - m_NameIndex: 2
+                m_Index: 272
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 384
+            - m_NameIndex: 7
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 1
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            m_ConstantBufferBindings:
+            - m_NameIndex: 4
+              m_Index: 0
+            - m_NameIndex: 5
+              m_Index: 1
+            - m_NameIndex: 6
+              m_Index: 2
+            - m_NameIndex: 7
+              m_Index: 3
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 2
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices:
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 9
+            m_VectorParams:
+            - m_NameIndex: 0
+              m_Index: 10
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            - m_NameIndex: 1
+              m_Index: 9
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            - m_NameIndex: 9
+              m_Index: 8
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            m_MatrixParams:
+            - m_NameIndex: 2
+              m_Index: 4
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            - m_NameIndex: 3
+              m_Index: 0
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 2
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices:
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 15
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers:
+            - m_NameIndex: 4
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 0
+                m_Index: 32
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            - m_NameIndex: 11
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 9
+                m_Index: 96
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 144
+            - m_NameIndex: 5
+              m_MatrixParams:
+              - m_NameIndex: 3
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 160
+            - m_NameIndex: 6
+              m_MatrixParams:
+              - m_NameIndex: 2
+                m_Index: 272
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 384
+            - m_NameIndex: 7
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 1
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            m_ConstantBufferBindings:
+            - m_NameIndex: 4
+              m_Index: 0
+            - m_NameIndex: 11
+              m_Index: 1
+            - m_NameIndex: 5
+              m_Index: 2
+            - m_NameIndex: 6
+              m_Index: 3
+            - m_NameIndex: 7
+              m_Index: 4
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 3
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices:
+            - 8
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 9
+            m_VectorParams:
+            - m_NameIndex: 0
+              m_Index: 10
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            - m_NameIndex: 1
+              m_Index: 9
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            - m_NameIndex: 9
+              m_Index: 8
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 4
+            m_MatrixParams:
+            - m_NameIndex: 2
+              m_Index: 4
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            - m_NameIndex: 3
+              m_Index: 0
+              m_ArraySize: 0
+              m_Type: 0
+              m_RowCount: 4
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 3
+            m_Channels:
+              m_Channels:
+              - source: 0
+                target: 0
+              - source: 2
+                target: 1
+              - source: 3
+                target: 4
+              m_SourceMap: 13
+            m_KeywordIndices:
+            - 8
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 15
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams: []
+            m_BufferParams: []
+            m_ConstantBuffers:
+            - m_NameIndex: 4
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 0
+                m_Index: 32
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            - m_NameIndex: 11
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 9
+                m_Index: 96
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 144
+            - m_NameIndex: 5
+              m_MatrixParams:
+              - m_NameIndex: 3
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 160
+            - m_NameIndex: 6
+              m_MatrixParams:
+              - m_NameIndex: 2
+                m_Index: 272
+                m_ArraySize: 0
+                m_Type: 0
+                m_RowCount: 4
+              m_VectorParams: []
+              m_Size: 384
+            - m_NameIndex: 7
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 1
+                m_Index: 0
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 4
+              m_Size: 48
+            m_ConstantBufferBindings:
+            - m_NameIndex: 4
+              m_Index: 0
+            - m_NameIndex: 11
+              m_Index: 1
+            - m_NameIndex: 5
+              m_Index: 2
+            - m_NameIndex: 6
+              m_Index: 3
+            - m_NameIndex: 7
+              m_Index: 4
+            m_UAVParams: []
+        progFragment:
+          m_SubPrograms:
+          - serializedVersion: 2
+            m_BlobIndex: 4
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices: []
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 11
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 4
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices: []
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 17
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 5
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices:
+            - 8
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 11
+            m_VectorParams:
+            - m_NameIndex: 13
+              m_Index: 0
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 1
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            - m_NameIndex: 14
+              m_Index: 1
+              m_SamplerIndex: 1
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 5
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices:
+            - 8
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 17
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            - m_NameIndex: 14
+              m_Index: 1
+              m_SamplerIndex: 1
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers:
+            - m_NameIndex: 7
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 13
+                m_Index: 32
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 1
+              m_Size: 48
+            m_ConstantBufferBindings:
+            - m_NameIndex: 7
+              m_Index: 0
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 6
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices:
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 11
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 6
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices:
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 17
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 7
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices:
+            - 8
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 11
+            m_VectorParams:
+            - m_NameIndex: 13
+              m_Index: 0
+              m_ArraySize: 0
+              m_Type: 0
+              m_Dim: 1
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            - m_NameIndex: 14
+              m_Index: 1
+              m_SamplerIndex: 1
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers: []
+            m_ConstantBufferBindings: []
+            m_UAVParams: []
+          - serializedVersion: 2
+            m_BlobIndex: 7
+            m_Channels:
+              m_Channels: []
+              m_SourceMap: 0
+            m_KeywordIndices:
+            - 8
+            - 10
+            m_ShaderHardwareTier: 3
+            m_GpuProgramType: 17
+            m_VectorParams: []
+            m_MatrixParams: []
+            m_TextureParams:
+            - m_NameIndex: 12
+              m_Index: 0
+              m_SamplerIndex: 0
+              m_Dim: 2
+            - m_NameIndex: 14
+              m_Index: 1
+              m_SamplerIndex: 1
+              m_Dim: 2
+            m_BufferParams: []
+            m_ConstantBuffers:
+            - m_NameIndex: 7
+              m_MatrixParams: []
+              m_VectorParams:
+              - m_NameIndex: 13
+                m_Index: 32
+                m_ArraySize: 0
+                m_Type: 0
+                m_Dim: 1
+              m_Size: 48
+            m_ConstantBufferBindings:
+            - m_NameIndex: 7
+              m_Index: 0
+            m_UAVParams: []
+        progGeometry:
+          m_SubPrograms: []
+        progHull:
+          m_SubPrograms: []
+        progDomain:
+          m_SubPrograms: []
+        m_HasInstancingVariant: 1
+        m_UseName: 
+        m_Name: 
+        m_TextureName: 
+        m_Tags:
+          tags: []
+      m_Tags:
+        tags:
+        - CanUseSpriteAtlas: "true"
+        - IGNOREPROJECTOR: "true"
+        - PreviewType: "Plane"
+        - QUEUE: "Transparent"
+        - RenderType: "Transparent"
+      m_LOD: 0
+    m_Name: "Sprites\x2fDefault"
+    m_CustomEditorName: 
+    m_FallbackName: 
+    m_Dependencies: []
+    m_DisableNoSubshadersMessage: 0
+  platforms: 0100000004000000
+  offsets: 00000000F0040000
+  compressedLengths: F0040000E8050000
+  decompressedLengths: 741600000C220000
+  compressedBlob: FA3F080000001006000024030000440000003C0300008C0D0000400400003409000058040000D004000040010000CC1100004C0200008003000050010000181400005C020000324F040C090000000C000100F2230100000013000000455443315F45585445524E414C5F414C50484100240200000002FEFFFEFF3F00435441421C000000CF001400400400000010009008110000C80000006C1700210009500013745C00118414001908140011931400200400400013A4140011B4140019001400F4025F436F6C6F7200AB01000300010004000118008252656E64657265722000F707756E6974795F4D6174726978565000ABAB02000300043000022100F83B4F626A656374546F576F726C640076735F325F30004D6963726F736F66742028522920484C534C2053686164657220436F6D70696C65722031302E3100AB510000050A000FA00000803F3C01121FB700508000000F900C00530A000080010C00910500008002000F9004D700F20F0F80000024900A0040A00A0015A009000003010001800000E4A00000E480100039028001100039048002100037088003100095020001800400E4A001100039028005100039048006100033088007100040050000039400830100E4900900E4A0100010D05C001108240000D8005303E00200E4C000E203C00200FF80FF00E4A00200E4802000200CC00C0061FFFF00000D004100051801130258021303D40117011C000010001606E0010584021704240000A8021E0EEC010F2C000213082C000B0902056C000880001304EC020F1402010F300001040100003C03130BD0001B013C03005003D1504958454C534E41505F4F4EEC010155FFFFFEFF2034031353140017013403574C000000305400143CE002F5034D61696E54657800ABABAB04000C0001000174001F70B8021C0CA002020C002303B00C00619000080FA0428300102F8C0234B000080C02011000000400129010007427800000FF8000FC011208200000FC01080C010C58041808D000071C020F5001050001000F4001FF160FCC05010001000FB405FFFFFB0094001B1818001F02F008080CCC052404034C03154C4C03220301140017054C0312FC5102410002000A880013886C001798600304140017A7600313B8140017C8600313D8140017E860031FD860031BD05F53637265656E506172616D7308050C30000C81030F8003451A0B80031F3F8003215F0B0040A00B800334170360030850031B0A5003006003110910000AB0031B00B00335000004A0031106D8005308800000AA5C001903F405009C00310B00AA680071010003800100AAB80303AC0303280011E4240011133000600C8000004480D50306200020EE81680000480442010000800C000004011755740033E48002E0001103100015AA84001303A0000F2C040113032C0417032C041F032C04201F052C04101F0A2C041822090080000AD5020F58047F0E0C0A0F4004FFFFFFFF0B130BE4002F0200881113249401140D153B480422BF001400170348040010041158580102F40C13645C0017747401138C1400179C3C0D14A8080452416C7068613D0D0C3C0DF1005F456E61626C6545787465726E616C2A00001C04046E001F01800D64040C001B018C0D310108E4100017019C0D70120000040200286B0521A000380411FFAC024602002780D4033F2F8002BC0D28000C001F143001050320001E01940A0FEC0D06190998010664002E02014C020FE40A210F5C02FFFF02500002010000F243080000008C0500001C050000A80A000034050000DC0F0000680600008C1B00008006000044160000FC010000440000003C030000800300000C020000401800004C030000324F040C110000000400000002000100000800F02B0100000013000000455443315F45585445524E414C5F414C504841003E02000001020102000044584243C202DC65725959E968A8B86DD2BEC4AB3A00F20B38020000030000002C000000A0000000D40000004953474E6C00180000BA0013506E0013011400000100660F0000005C000100130320005B0F0F000062180000A600F3160303000053565F504F534954494F4E00434F4C4F5200544558434F4F524400AB4F53474E2C44000074001B204400047400F51453565F54617267657400ABAB534844525C010000400000005700000059000004468E203400105A070047601000000C000060006258180004007018002655551000130110006262100003F2101000000C0031321010C4006265000003F2203800406800000214006245000009F20014001346280022467E3C000470000424001B012400010100246010E7002308124800130A0800533A001080411401533200000A824400350A8020FE01072C00011C0045380000079000130E7400161E1C001372C00023F60F240012020800663600000582204C00000100123E7B00076C0208010010122E01F3056E69747950657244726177537072697465000030B200F409140000005F456E61626C6545787465726E616C416C7068614A02075B002700206E02885F4D61696E546578780010091800013E00061900008E022F0201880007086000043C03043003088400100CE202F2044958454C534E41505F4F4EA6010000010100013403F00145E36549B055E6F8061707970CEA61EC32002FA0013403AB22C40034031B3124030C18030F0803151F0108030808E4020C9C021F009C02361B019C021F014C0208000C02110F3A030EDC02203A033C00220400FC01F001D77F6C76BB374AF406AFD51EB34F02295600263403FC01629C0000001001FC011E68FC010A88011107A0040FFC01021F5FFC01040FF901051F4F6C02291F006C02041F0C6C020B003802101C8E064F000100876C05000410001301A206041000005C0017151000048800625F0000037210CC01000C000468020018000468024467000004680217017802040C002232202800048C054438000008600223561544020394000444052AF20018000001002A061094020F2800010060002AA61A2800007F010DD00203300017039000001000265605200013023E050468001701180000A6041B06C0050F28000100F2072FA60A2800001A2068001814500303280008280126461E5800040A0301480103680108D800045C02009003047C0104EC03029003170D820208A008130316021B05A80300BE028424476C6F62616C7338061006060256436F6C6F72D6021B042C061B0CF40517A0080910751800F3015F4F626A656374546F576F726C64000044001B042C04170D4800A24672616D6500000080012400150E4C009F4D61747269785650004800022F10010C070F004C009F5F52656E6465726572DC000804600008180108B0000CF8000848070FCC000104BA022F000028070B04B4010E1C050F640A0F0F3405FFFFFFFFF91E10C4010D5C0C200E04180013052C05F10126FD74EFB89A804A405F92108B70D42BB60A1F042C05E713F02C051FBC2C050C1B072C051B042C05083C051F043C05601F023C05041F023C05141F023C051C1F023C050C1F033C05041F033C05141F033C05091A0068000F3C0501540E0000073228001A00E40D543800000B326C00258020CE042102401F00133F040005400E0C480013463C00104060050B1C001F0E300008014C000C700E1600700E13C21C0013A668010F0006251F0400062E1F06000634170ECC049343616D6572610000902C00008400EF5F53637265656E506172616D73004800031F604806CC1F054806080F400101084C060F6806011F0268060C1F036806101F04C4120C01A6020FB412FFD10FFC17011F02980D080C7C080F0C18FFFFFB0EB00B0F4C030A0FC80BFFFFFFFFFFFF3B500000000000
+  m_Dependencies: []
+  m_ShaderIsBaked: 1

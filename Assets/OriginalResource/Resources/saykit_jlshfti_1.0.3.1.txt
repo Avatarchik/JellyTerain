@@ -1,0 +1,213 @@
+{
+    "ads_groups": [
+        {
+            "force_impression_every": 0,
+            "group": "default",
+            "skip_after_interstitial": 35,
+            "skip_after_rewarded": 45,
+            "skip_after_start": 30,
+            "skip_period_duration": 0,
+            "skip_period_limit": 0
+        },
+        {
+            "force_impression_every": 0,
+            "group": "fail",
+            "skip_after_interstitial": 35,
+            "skip_after_rewarded": 45,
+            "skip_after_start": 30,
+            "skip_period_duration": 0,
+            "skip_period_limit": 0
+        }
+    ],
+    "ads_places": [
+        {
+            "group": "fail",
+            "place": "ad_interstitial_level_failed",
+            "status": "skip",
+            "type": "interstitial"
+        },
+        {
+            "group": "fail",
+            "place": "ad_interstitial_level_completed",
+            "status": "skip",
+            "type": "interstitial"
+        },
+        {
+            "group": "default",
+            "place": "ad_rewarded_level_continue",
+            "status": "always",
+            "type": "rewarded"
+        }
+    ],
+    "ads_settings": {
+        "banner_disabled": 0,
+        "banner_placement": "5bb1d26669864bd39ea0e1819c45312c",
+        "interstitial_placement": "086ff49619f945149706df051bcb70c2",
+        "rewarded_placement": "2abc0c41a97841779191aca28903a0c3",
+        "watchdog_interstitial": 0,
+        "watchdog_rewarded": 0
+    },
+    "game_messages": [
+        {
+            "code": "gdpr_popup_title",
+            "text_ar": "",
+            "text_de": "Jelly Shift DSGVO",
+            "text_en": "Jelly Shift GDPR",
+            "text_es": "Jelly Shift RGPD",
+            "text_fr": "Jelly Shift RGPD",
+            "text_it": "Jelly Shift RGPD",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "Jelly Shift RGPD",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "gdpr_popup_text_top",
+            "text_ar": "",
+            "text_de": "Ich bin damit einverstanden, dass Goleft meine persönlichen Daten verarbeitet, um das Spiel zu personalisieren und zu verbessern und gezielte Werbung im Spiel über Werbenetzwerke und deren Partner basierend auf meinen persönlichen Präferenzen anzuzeigen.",
+            "text_en": "I hereby consent to SayGames's processing of my personal data to personalize and improve the game and serving targeted advertisements in the game through advertising networks and their partners based on my personal preferences.",
+            "text_es": "Por la presente, doy mi consentimiento para que SayGames procese mis datos personales para personalizar y mejorar el juego y publicar anuncios específicos en el juego a través de redes publicitarias y sus socios en función de mis preferencias personales.",
+            "text_fr": "J'accepte par la présente que mes données personnelles soient traitées par SayGames afin de personnaliser et améliorer le jeu et à des fins de publicité ciblée dans le jeu à travers les réseaux de publicité et leurs partenaires sur la base de mes préférences personnelles.",
+            "text_it": "Con la presente acconsento al trattamento da parte della società SayGames dei miei dati personali al fine di personalizzare e migliorare il gioco e offrire pubblicità mirate nel gioco per mezzo di reti pubblicitarie e i loro partner in base alle mie preferenze personali.",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "Concordo com o processamento de meus dados pessoais pela SayGames para personalizar e melhorar o jogo, bem como para veicular anúncios direcionados no jogo, através de redes de publicidade e dos seus parceiros com base em minhas preferências pessoais.",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "gdpr_popup_text_bottom",
+            "text_ar": "",
+            "text_de": "Indem ich das Kontrollkästchen oben ankreuze, bestätige ich, dass ich die Datenschutzbestimmungen gelesen und akzeptiert habe und dass ich mindestens 16 Jahre alt bin. Ich verstehe, dass ich meine Einwilligung jederzeit in den Einstellungen des Spiels widerrufen kann.",
+            "text_en": "By checking ON the box above, I accept that I’ve read and agreed with Privacy Policy and I accept that my age is older than 16. I understand that I can always withdraw my consent at any time from within Settings in the game.",
+            "text_es": "Al aceptar en el recuadro anterior, acepto que he leído y acepto la Política de privacidad, y acepto que mi edad es mayor a los 16 años. Entiendo que puedo retirar mi consentimiento en cualquier momento en los Ajustes del juego.",
+            "text_fr": "En cochant la case ON ci-dessus, je reconnais avoir lu et approuvé la politique de confidentialité et je reconnais être âgé de plus de 16 ans. Je comprends que je peux retirer mon consentement à tout moment à partir des paramètres dans le jeu.",
+            "text_it": "Nel mettere la spunta alla casella sopra riportata, accetto di aver letto e accosentito alla Informativa sulla privacy e accetto il fatto che la mia età sia superiore a 16 anni. Comprendo che in qualsiasi momento posso sempre ritirare il mio consenso dalle Impostazioni nel gioco.",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "Ao marcar NA caixa acima, aceito que li e concordei com a Política de Privacidade e confirmo que sou maior de 16 anos. Compreendo que posso sempre retirar o meu consentimento a qualquer momento nas Definições do jogo.",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "gdpr_popup_button_accept",
+            "text_ar": "",
+            "text_de": "Ich akzeptiere",
+            "text_en": "I Accept",
+            "text_es": "Acepto",
+            "text_fr": "J'accepte",
+            "text_it": "Accetto",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "Aceito",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "gdpr_popup_button_ok",
+            "text_ar": "",
+            "text_de": "",
+            "text_en": "OK",
+            "text_es": "",
+            "text_fr": "",
+            "text_it": "",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "gdpr_privacy_url",
+            "text_ar": "",
+            "text_de": "",
+            "text_en": "https://www.mopub.com/legal/privacy/",
+            "text_es": "",
+            "text_fr": "",
+            "text_it": "",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "withdraw_consent_popup_title",
+            "text_ar": "",
+            "text_de": "",
+            "text_en": "Withdraw consent",
+            "text_es": "",
+            "text_fr": "",
+            "text_it": "",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "withdraw_consent_popup_text",
+            "text_ar": "",
+            "text_de": "",
+            "text_en": "You have currently given your consent to SayGames's disclosure of the advertising ID of your device to advertising network companies for the purpose of serving targeted advertisments in the game based on your personal preferences.\nPlease note that if you withdraw your consent, your user licence to use the App will cease automatically.\nAre you sure you want to withdraw your consent?",
+            "text_es": "",
+            "text_fr": "",
+            "text_it": "",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "withdraw_consent_popup_button_yes",
+            "text_ar": "",
+            "text_de": "",
+            "text_en": "Yes",
+            "text_es": "",
+            "text_fr": "",
+            "text_it": "",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "",
+            "text_ru": "",
+            "text_zh": ""
+        },
+        {
+            "code": "withdraw_consent_popup_button_no",
+            "text_ar": "",
+            "text_de": "",
+            "text_en": "Keep playing",
+            "text_es": "",
+            "text_fr": "",
+            "text_it": "",
+            "text_ja": "",
+            "text_ko": "",
+            "text_pt": "",
+            "text_ru": "",
+            "text_zh": ""
+        }
+    ],
+    "game_settings": {
+        "banned_obstacles": "{\"banned_obstacles\": []}",
+        "haptic_enabled": 1,
+        "level_config_folder": "Easy",
+        "max_ruby_count": 3,
+        "min_ruby_count": 1,
+        "none": 0,
+        "obstacles_random_max": 14,
+        "obstacles_random_min": 10,
+        "player_jelly_enabled": 1,
+        "player_speed_default": 7,
+        "player_speed_increase": 0.3,
+        "player_speed_max": 10,
+        "player_touch_sensitivity": 55,
+        "rubies_enabled": 1,
+        "tap_control_enabled": 0
+    },
+    "runtime": {
+        "timestamp": 1559737102,
+        "segment": 1
+    }
+}

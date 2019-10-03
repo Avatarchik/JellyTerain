@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 9bf6e8864a394d5bb115648d5ad8d0d8
+timeCreated: 1566430875
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GlowingDot
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GlowingDot
+      rect:
+        serializedVersion: 2
+        x: 23.07612
+        y: 24.05132
+        width: 208.9198
+        height: 208.8726
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -104.536, y: -37.48759}
+      - {x: -104.536, y: 31.51241}
+      - {x: -69.53604, y: -100.4876}
+    - - {x: -77.53604, y: 75.51241}
+      - {x: -69.53604, y: -100.4876}
+      - {x: -104.536, y: 31.51241}
+    - - {x: -38.53604, y: 102.5124}
+      - {x: -69.53604, y: -100.4876}
+      - {x: -77.53604, y: 75.51241}
+    - - {x: -65.53604, y: -104.4876}
+      - {x: -69.53604, y: -100.4876}
+      - {x: -38.53604, y: 102.5124}
+    - - {x: -35.53604, y: 94.51241}
+      - {x: -65.53604, y: -104.4876}
+      - {x: -38.53604, y: 102.5124}
+    - - {x: 59.46396, y: -104.4876}
+      - {x: -65.53604, y: -104.4876}
+      - {x: -35.53604, y: 94.51241}
+    - - {x: -35.53604, y: 95.51241}
+      - {x: 59.46396, y: -104.4876}
+      - {x: -35.53604, y: 94.51241}
+    - - {x: -33.53604, y: 99.51241}
+      - {x: 59.46396, y: -104.4876}
+      - {x: -35.53604, y: 95.51241}
+    - - {x: -28.53604, y: 104.5124}
+      - {x: 59.46396, y: -104.4876}
+      - {x: -33.53604, y: 99.51241}
+    - - {x: 52.46396, y: 104.5124}
+      - {x: 59.46396, y: -104.4876}
+      - {x: -28.53604, y: 104.5124}
+    - - {x: 104.464, y: 59.51241}
+      - {x: 59.46396, y: -104.4876}
+      - {x: 52.46396, y: 104.5124}
+    - - {x: 104.464, y: -74.48759}
+      - {x: 59.46396, y: -104.4876}
+      - {x: 104.464, y: 59.51241}
+    - - {x: -38.53604, y: 102.5124}
+      - {x: -35.53604, y: 97.51241}
+      - {x: -35.53604, y: 94.51241}
+    - - {x: -35.53604, y: 95.51241}
+      - {x: -35.53604, y: 94.51241}
+      - {x: -35.53604, y: 97.51241}
+    physicsShape:    
+    - - {x: -17.53604, y: 21.51241}
+      - {x: -22.53604, y: 12.51241}
+      - {x: -22.53604, y: -9.487595}
+      - {x: -15.53604, y: -23.48759}
+      - {x: 15.46396, y: -23.48759}
+      - {x: 22.46396, y: -12.48759}
+      - {x: 22.46396, y: 17.51241}
+      - {x: 11.46396, y: 21.51241}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,88 @@
+// Class info from mscorlib.dll
+// 
+using UnityEngine;
+
+namespace System
+{
+    public class Math : Object
+    {
+      // Fields:
+  public E : Double
+  public PI : Double
+      // Properties:
+      // Events:
+      // Methods:
+      public DecimalMath::AbsDecimal)
+      public DoubleMath::AbsDouble)
+      public SingleMath::AbsSingle)
+      public Int32Math::AbsInt32)
+      public Int64Math::AbsInt64)
+      public SByteMath::AbsSByte)
+      public Int16Math::AbsInt16)
+      public DecimalMath::CeilingDecimal)
+      public DoubleMath::CeilingDouble)
+      public Int64Math::BigMulInt32Int32)
+      public Int32Math::DivRemInt32Int32Int32&)
+      public Int64Math::DivRemInt64Int64Int64&)
+      public DoubleMath::FloorDouble)
+      public DoubleMath::IEEERemainderDoubleDouble)
+      public DoubleMath::LogDoubleDouble)
+      public ByteMath::MaxByteByte)
+      public DecimalMath::MaxDecimalDecimal)
+      public DoubleMath::MaxDoubleDouble)
+      public SingleMath::MaxSingleSingle)
+      public Int32Math::MaxInt32Int32)
+      public Int64Math::MaxInt64Int64)
+      public SByteMath::MaxSByteSByte)
+      public Int16Math::MaxInt16Int16)
+      public UInt32Math::MaxUInt32UInt32)
+      public UInt64Math::MaxUInt64UInt64)
+      public UInt16Math::MaxUInt16UInt16)
+      public ByteMath::MinByteByte)
+      public DecimalMath::MinDecimalDecimal)
+      public DoubleMath::MinDoubleDouble)
+      public SingleMath::MinSingleSingle)
+      public Int32Math::MinInt32Int32)
+      public Int64Math::MinInt64Int64)
+      public SByteMath::MinSByteSByte)
+      public Int16Math::MinInt16Int16)
+      public UInt32Math::MinUInt32UInt32)
+      public UInt64Math::MinUInt64UInt64)
+      public UInt16Math::MinUInt16UInt16)
+      public DecimalMath::RoundDecimal)
+      public DecimalMath::RoundDecimalInt32)
+      public DecimalMath::RoundDecimalMidpointRounding)
+      DecimalMath::RoundAwayFromZeroDecimal)
+      public DecimalMath::RoundDecimalInt32MidpointRounding)
+      public DoubleMath::RoundDouble)
+      public DoubleMath::RoundDoubleInt32)
+      DoubleMath::Round2DoubleInt32Boolean)
+      public DoubleMath::RoundDoubleMidpointRounding)
+      public DoubleMath::RoundDoubleInt32MidpointRounding)
+      public DoubleMath::TruncateDouble)
+      public DecimalMath::TruncateDecimal)
+      public DecimalMath::FloorDecimal)
+      public Int32Math::SignDecimal)
+      public Int32Math::SignDouble)
+      public Int32Math::SignSingle)
+      public Int32Math::SignInt32)
+      public Int32Math::SignInt64)
+      public Int32Math::SignSByte)
+      public Int32Math::SignInt16)
+      public DoubleMath::SinDouble)
+      public DoubleMath::CosDouble)
+      public DoubleMath::TanDouble)
+      public DoubleMath::SinhDouble)
+      public DoubleMath::CoshDouble)
+      public DoubleMath::TanhDouble)
+      public DoubleMath::AcosDouble)
+      public DoubleMath::AsinDouble)
+      public DoubleMath::AtanDouble)
+      public DoubleMath::Atan2DoubleDouble)
+      public DoubleMath::ExpDouble)
+      public DoubleMath::LogDouble)
+      public DoubleMath::Log10Double)
+      public DoubleMath::PowDoubleDouble)
+      public DoubleMath::SqrtDouble)
+    }
+}

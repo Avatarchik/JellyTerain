@@ -1,0 +1,28 @@
+  m_Name: 
+  m_Width: 128
+  m_Height: 128
+  m_CompleteImageSize: 21872
+  m_TextureFormat: 24
+  m_MipCount: 8
+  m_IsReadable: 0
+  m_ImageCount: 6
+  m_TextureDimension: 2
+  m_TextureSettings:
+    m_FilterMode: 2
+    m_Aniso: 0
+    m_MipBias: 0
+    m_WrapMode: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 0
+  image data: []
+  m_StreamData:
+    offset: 0
+    size: 131232
+    path: "level0.resS"
+  m_SourceTextures:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

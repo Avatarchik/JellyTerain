@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyTerain", "Assembly-CSharp.csproj", "{DA31641C-FB59-7656-AA01-E96EF95030E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyTerain", "Assembly-CSharp-Editor.csproj", "{D9F2C085-DC0F-30A2-EE64-1B73D98AEE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA31641C-FB59-7656-AA01-E96EF95030E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA31641C-FB59-7656-AA01-E96EF95030E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA31641C-FB59-7656-AA01-E96EF95030E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA31641C-FB59-7656-AA01-E96EF95030E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F2C085-DC0F-30A2-EE64-1B73D98AEE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F2C085-DC0F-30A2-EE64-1B73D98AEE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F2C085-DC0F-30A2-EE64-1B73D98AEE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F2C085-DC0F-30A2-EE64-1B73D98AEE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

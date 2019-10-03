@@ -1,0 +1,43 @@
+  m_Name: "Arial"
+  m_LineSpacing: 14.94873
+  m_DefaultMaterial: {fileID: 2100000, guid: 342d5f105bfe434088a737663125a741, type: 2}
+  m_FontSize: 13
+  m_Texture: {fileID: 2800000, guid: c4cb9cf320144fe2816a71a41212b513, type: 3}
+  m_AsciiStartOffset: 0
+  m_Tracking: 1
+  m_CharacterSpacing: 0
+  m_CharacterPadding: 1
+  m_ConvertCase: -2
+  m_CharacterRects: []
+  m_KerningValues:
+  - 70: 44: -1
+  - 70: 46: -1
+  - 80: 44: -1
+  - 80: 46: -1
+  - 84: 44: -1
+  - 84: 46: -1
+  - 84: 58: -1
+  - 84: 59: -1
+  - 84: 97: -1
+  - 84: 99: -1
+  - 84: 101: -1
+  - 84: 111: -1
+  - 84: 115: -1
+  - 86: 44: -1
+  - 86: 46: -1
+  - 89: 44: -1
+  - 89: 45: -1
+  - 89: 46: -1
+  - 89: 101: -1
+  - 89: 111: -1
+  - 89: 113: -1
+  m_PixelScale: 0.1
+  m_FontData: 
+  m_Ascent: 11.76855
+  m_Descent: -2.754883
+  m_DefaultStyle: 0
+  m_FontNames:
+  - "Arial"
+  m_FallbackFonts: []
+  m_FontRenderingMode: 0
+  m_UseLegacyBoundsCalculation: 0

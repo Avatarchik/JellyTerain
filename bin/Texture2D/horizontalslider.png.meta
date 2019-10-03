@@ -1,0 +1,21 @@
+  m_Name: "horizontalslider"
+  m_Width: 8
+  m_Height: 7
+  m_CompleteImageSize: 112
+  m_TextureFormat: 2
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapMode: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  image data: 0000006000B000C000C000B000600000006000B0007000500050007000B0006000B000700050005000500050007000B000C000700050005000500050007000C000C000900080007000700080009000C0008000C000A00090009000A000C000800000008000B000C000C000B000800000
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 

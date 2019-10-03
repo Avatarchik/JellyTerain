@@ -1,0 +1,21 @@
+  m_Name: "verticalslider"
+  m_Width: 7
+  m_Height: 8
+  m_CompleteImageSize: 112
+  m_TextureFormat: 2
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapMode: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  image data: 0000008000C000C000B000600000008000C000900070007000B0006000B00090007000500050007000B000C00080007000500050005000C000C00080007000500050005000C000B00090007000500050007000B0007000C000900060007000B000600000008000C000C000B000600000
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 

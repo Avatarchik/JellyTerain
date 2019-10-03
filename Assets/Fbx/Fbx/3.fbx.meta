@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: b8cb8831a8712e34293bcb4811ca3670
+timeCreated: 1567539361
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_d44
+    100004: cupcake
+    100006: Cylinder
+    100008: donut
+    100010: Gold_Rush_Column_mesh
+    100012: gummybear
+    100014: Icecream
+    100016: lollypop
+    100018: pattern_0_baked-mesh
+    100020: pattern_1_baked-mesh
+    100022: pattern_2_baked-mesh
+    100024: pattern_3_baked-mesh
+    100026: pattern_4_1_baked-mesh
+    100028: pattern_4_2_baked-mesh
+    100030: pattern_4_3_baked-mesh
+    100032: pattern_6_baked-mesh
+    400000: //RootNode
+    400002: Cube_d44
+    400004: cupcake
+    400006: Cylinder
+    400008: donut
+    400010: Gold_Rush_Column_mesh
+    400012: gummybear
+    400014: Icecream
+    400016: lollypop
+    400018: pattern_0_baked-mesh
+    400020: pattern_1_baked-mesh
+    400022: pattern_2_baked-mesh
+    400024: pattern_3_baked-mesh
+    400026: pattern_4_1_baked-mesh
+    400028: pattern_4_2_baked-mesh
+    400030: pattern_4_3_baked-mesh
+    400032: pattern_6_baked-mesh
+    2300000: Cube_d44
+    2300002: cupcake
+    2300004: Cylinder
+    2300006: donut
+    2300008: Gold_Rush_Column_mesh
+    2300010: gummybear
+    2300012: Icecream
+    2300014: lollypop
+    2300016: pattern_0_baked-mesh
+    2300018: pattern_1_baked-mesh
+    2300020: pattern_2_baked-mesh
+    2300022: pattern_3_baked-mesh
+    2300024: pattern_4_1_baked-mesh
+    2300026: pattern_4_2_baked-mesh
+    2300028: pattern_4_3_baked-mesh
+    2300030: pattern_6_baked-mesh
+    3300000: Cube_d44
+    3300002: cupcake
+    3300004: Cylinder
+    3300006: donut
+    3300008: Gold_Rush_Column_mesh
+    3300010: gummybear
+    3300012: Icecream
+    3300014: lollypop
+    3300016: pattern_0_baked-mesh
+    3300018: pattern_1_baked-mesh
+    3300020: pattern_2_baked-mesh
+    3300022: pattern_3_baked-mesh
+    3300024: pattern_4_1_baked-mesh
+    3300026: pattern_4_2_baked-mesh
+    3300028: pattern_4_3_baked-mesh
+    3300030: pattern_6_baked-mesh
+    4300000: Icecream
+    4300002: cupcake
+    4300004: pattern_4_1_baked-mesh
+    4300006: gummybear
+    4300008: donut
+    4300010: pattern_1_baked-mesh
+    4300012: Gold_Rush_Column_mesh
+    4300014: lollypop
+    4300016: pattern_4_2_baked-mesh
+    4300018: pattern_2_baked-mesh
+    4300020: Cylinder
+    4300022: pattern_6_baked-mesh
+    4300024: pattern_3_baked-mesh
+    4300026: pattern_4_3_baked-mesh
+    4300028: pattern_0_baked-mesh
+    4300030: Cube_d44
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

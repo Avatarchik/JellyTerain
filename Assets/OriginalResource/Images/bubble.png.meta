@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 712a1b9a56424b5b84486788e48796da
+timeCreated: 1566430878
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubble
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.9853262, y: 0.08171029}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bubble
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 215
+        height: 216
+      alignment: 9
+      pivot: {x: 0.9853262, y: 0.08171029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 66.5, y: -98}
+      - {x: 105.5, y: -78}
+      - {x: 107.5, y: -96}
+    - - {x: 107.5, y: -81}
+      - {x: 107.5, y: -96}
+      - {x: 105.5, y: -78}
+    - - {x: -107.5, y: -42.99999}
+      - {x: -107.5, y: 38.00001}
+      - {x: -74.5, y: -85}
+    - - {x: -89.5, y: 76.00002}
+      - {x: -74.5, y: -85}
+      - {x: -107.5, y: 38.00001}
+    - - {x: -40.5, y: 108}
+      - {x: -74.5, y: -85}
+      - {x: -89.5, y: 76.00002}
+    - - {x: -36.49998, y: -108}
+      - {x: -74.5, y: -85}
+      - {x: -40.5, y: 108}
+    - - {x: 33.5, y: 108}
+      - {x: -36.49998, y: -108}
+      - {x: -40.5, y: 108}
+    - - {x: 35.50002, y: -108}
+      - {x: -36.49998, y: -108}
+      - {x: 33.5, y: 108}
+    - - {x: 64.49999, y: 99.00001}
+      - {x: 35.50002, y: -108}
+      - {x: 33.5, y: 108}
+    - - {x: 47.50001, y: -107}
+      - {x: 35.50002, y: -108}
+      - {x: 64.49999, y: 99.00001}
+    - - {x: 66.5, y: -98}
+      - {x: 47.50001, y: -107}
+      - {x: 64.49999, y: 99.00001}
+    - - {x: 107.5, y: 46.00002}
+      - {x: 66.5, y: -98}
+      - {x: 64.49999, y: 99.00001}
+    - - {x: 105.5, y: -78}
+      - {x: 66.5, y: -98}
+      - {x: 107.5, y: 46.00002}
+    - - {x: 107.5, y: -42}
+      - {x: 105.5, y: -78}
+      - {x: 107.5, y: 46.00002}
+    physicsShape:    
+    - - {x: 67.5, y: -86}
+      - {x: 98.5, y: -95}
+      - {x: 107.5, y: -92}
+      - {x: 107.5, y: -89}
+      - {x: 106.5, y: -86}
+      - {x: 101.5, y: -70}
+      - {x: 94.5, y: -58}
+      - {x: 102.5, y: -41}
+      - {x: 107.5, y: -26}
+      - {x: 107.5, y: 24}
+      - {x: 102.5, y: 40.00001}
+      - {x: 99.5, y: 46.00001}
+      - {x: 87.5, y: 68.00001}
+      - {x: 67.5, y: 88.00001}
+      - {x: 57.5, y: 94.00001}
+      - {x: 37.5, y: 103}
+      - {x: 28.49999, y: 106}
+      - {x: 19.49999, y: 108}
+      - {x: -21.5, y: 108}
+      - {x: -28.5, y: 107}
+      - {x: -50.5, y: 99.00002}
+      - {x: -66.5, y: 89.00001}
+      - {x: -83.5, y: 72.00001}
+      - {x: -90.5, y: 63.00002}
+      - {x: -101.5, y: 42.00001}
+      - {x: -107.5, y: 24}
+      - {x: -107.5, y: -23}
+      - {x: -106.5, y: -31}
+      - {x: -96.50002, y: -55}
+      - {x: -87.5, y: -67}
+      - {x: -73.5, y: -82}
+      - {x: -66.5, y: -87}
+      - {x: -55.5, y: -95}
+      - {x: -37.5, y: -103}
+      - {x: -27.5, y: -106}
+      - {x: -19.50001, y: -108}
+      - {x: 22.5, y: -108}
+      - {x: 32.5, y: -106}
+      - {x: 55.5, y: -95}
+      - {x: 64.5, y: -89}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
